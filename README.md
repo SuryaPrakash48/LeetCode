@@ -27,6 +27,7 @@ My solns
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SuryaPrakash48/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SuryaPrakash48/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/SuryaPrakash48/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ My solns
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SuryaPrakash48/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [3903-smallest-stable-index-i](https://github.com/SuryaPrakash48/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
