@@ -27,6 +27,7 @@ My solns
 | [0169-majority-element](https://github.com/SuryaPrakash48/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SuryaPrakash48/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SuryaPrakash48/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0485-max-consecutive-ones](https://github.com/SuryaPrakash48/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/SuryaPrakash48/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0877-stone-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
