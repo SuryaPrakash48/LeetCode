@@ -6,6 +6,7 @@ My solns
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/SuryaPrakash48/LeetCode/tree/master/0344-reverse-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/SuryaPrakash48/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -24,4 +25,8 @@ My solns
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SuryaPrakash48/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/SuryaPrakash48/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
