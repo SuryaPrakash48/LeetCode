@@ -15,6 +15,7 @@ My solns
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SuryaPrakash48/LeetCode/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/SuryaPrakash48/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/SuryaPrakash48/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0877-stone-game) |
@@ -38,6 +39,7 @@ My solns
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SuryaPrakash48/LeetCode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0877-stone-game) |
 ## Minimax
@@ -60,4 +62,8 @@ My solns
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SuryaPrakash48/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
