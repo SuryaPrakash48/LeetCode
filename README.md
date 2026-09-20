@@ -15,6 +15,7 @@ My solns
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SuryaPrakash48/LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/SuryaPrakash48/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SuryaPrakash48/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/SuryaPrakash48/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -71,6 +72,7 @@ My solns
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SuryaPrakash48/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SuryaPrakash48/LeetCode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
