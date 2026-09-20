@@ -19,6 +19,7 @@ My solns
 | [0004-median-of-two-sorted-arrays](https://github.com/SuryaPrakash48/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SuryaPrakash48/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/SuryaPrakash48/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/SuryaPrakash48/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SuryaPrakash48/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SuryaPrakash48/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -39,6 +40,7 @@ My solns
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuryaPrakash48/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/SuryaPrakash48/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuryaPrakash48/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/SuryaPrakash48/LeetCode/tree/master/0704-binary-search) |
 ## Prefix Sum
