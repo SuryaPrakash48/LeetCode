@@ -18,6 +18,7 @@ My solns
 | [0001-two-sum](https://github.com/SuryaPrakash48/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuryaPrakash48/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/SuryaPrakash48/LeetCode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SuryaPrakash48/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuryaPrakash48/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SuryaPrakash48/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SuryaPrakash48/LeetCode/tree/master/0217-contains-duplicate) |
@@ -56,6 +57,7 @@ My solns
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SuryaPrakash48/LeetCode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SuryaPrakash48/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0877-stone-game) |
 ## Minimax
