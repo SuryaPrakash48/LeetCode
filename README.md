@@ -33,10 +33,12 @@ My solns
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -50,4 +52,12 @@ My solns
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0877-stone-game) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
