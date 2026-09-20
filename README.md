@@ -18,6 +18,7 @@ My solns
 | [0001-two-sum](https://github.com/SuryaPrakash48/LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/SuryaPrakash48/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SuryaPrakash48/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SuryaPrakash48/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SuryaPrakash48/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/SuryaPrakash48/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0877-stone-game) |
@@ -75,10 +76,12 @@ My solns
 | ------- |
 | [0001-two-sum](https://github.com/SuryaPrakash48/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SuryaPrakash48/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SuryaPrakash48/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SuryaPrakash48/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SuryaPrakash48/LeetCode/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
