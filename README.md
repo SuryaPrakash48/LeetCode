@@ -16,6 +16,7 @@ My solns
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SuryaPrakash48/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SuryaPrakash48/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/SuryaPrakash48/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/SuryaPrakash48/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0877-stone-game) |
@@ -66,4 +67,21 @@ My solns
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SuryaPrakash48/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SuryaPrakash48/LeetCode/tree/master/0169-majority-element) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SuryaPrakash48/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SuryaPrakash48/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SuryaPrakash48/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SuryaPrakash48/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
