@@ -41,6 +41,7 @@ My solns
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0877-stone-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SuryaPrakash48/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -53,10 +54,12 @@ My solns
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
@@ -99,4 +102,16 @@ My solns
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
