@@ -17,6 +17,7 @@ My solns
 | ------- |
 | [0001-two-sum](https://github.com/SuryaPrakash48/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuryaPrakash48/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/SuryaPrakash48/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/SuryaPrakash48/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SuryaPrakash48/LeetCode/tree/master/0066-plus-one) |
@@ -48,6 +49,7 @@ My solns
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SuryaPrakash48/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuryaPrakash48/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/SuryaPrakash48/LeetCode/tree/master/0344-reverse-string) |
@@ -122,6 +124,7 @@ My solns
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SuryaPrakash48/LeetCode/tree/master/0011-container-with-most-water) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Brainteaser
 |  |
