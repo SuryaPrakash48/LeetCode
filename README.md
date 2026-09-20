@@ -51,6 +51,7 @@ My solns
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0877-stone-game) |
