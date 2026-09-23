@@ -33,6 +33,7 @@ My solns
 | [0704-binary-search](https://github.com/SuryaPrakash48/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0877-stone-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/SuryaPrakash48/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SuryaPrakash48/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SuryaPrakash48/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/SuryaPrakash48/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -116,6 +117,7 @@ My solns
 | [0001-two-sum](https://github.com/SuryaPrakash48/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SuryaPrakash48/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SuryaPrakash48/LeetCode/tree/master/0217-contains-duplicate) |
+| [2206-divide-array-into-equal-pairs](https://github.com/SuryaPrakash48/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +127,7 @@ My solns
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SuryaPrakash48/LeetCode/tree/master/0169-majority-element) |
+| [2206-divide-array-into-equal-pairs](https://github.com/SuryaPrakash48/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -151,6 +154,7 @@ My solns
 | ------- |
 | [0136-single-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/SuryaPrakash48/LeetCode/tree/master/0191-number-of-1-bits) |
+| [2206-divide-array-into-equal-pairs](https://github.com/SuryaPrakash48/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Geometry
 |  |
 | ------- |
