@@ -34,6 +34,7 @@ My solns
 | [0877-stone-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0877-stone-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SuryaPrakash48/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SuryaPrakash48/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SuryaPrakash48/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SuryaPrakash48/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/SuryaPrakash48/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -70,6 +71,7 @@ My solns
 | [0836-rectangle-overlap](https://github.com/SuryaPrakash48/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SuryaPrakash48/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SuryaPrakash48/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/SuryaPrakash48/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/SuryaPrakash48/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SuryaPrakash48/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
