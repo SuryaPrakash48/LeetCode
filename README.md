@@ -159,6 +159,7 @@ My solns
 | ------- |
 | [0136-single-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/SuryaPrakash48/LeetCode/tree/master/0191-number-of-1-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/SuryaPrakash48/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SuryaPrakash48/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Geometry
 |  |
