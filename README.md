@@ -44,6 +44,7 @@ My solns
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuryaPrakash48/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SuryaPrakash48/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/SuryaPrakash48/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuryaPrakash48/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SuryaPrakash48/LeetCode/tree/master/0704-binary-search) |
@@ -66,6 +67,7 @@ My solns
 | [0009-palindrome-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/SuryaPrakash48/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SuryaPrakash48/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/SuryaPrakash48/LeetCode/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/SuryaPrakash48/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -161,4 +163,8 @@ My solns
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/SuryaPrakash48/LeetCode/tree/master/0836-rectangle-overlap) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SuryaPrakash48/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
