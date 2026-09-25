@@ -69,6 +69,7 @@ My solns
 | [0050-powx-n](https://github.com/SuryaPrakash48/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SuryaPrakash48/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SuryaPrakash48/LeetCode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/SuryaPrakash48/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/SuryaPrakash48/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -104,6 +105,7 @@ My solns
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SuryaPrakash48/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/SuryaPrakash48/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -159,6 +161,7 @@ My solns
 | ------- |
 | [0136-single-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/SuryaPrakash48/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/SuryaPrakash48/LeetCode/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/SuryaPrakash48/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SuryaPrakash48/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Geometry
