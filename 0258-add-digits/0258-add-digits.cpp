@@ -8,10 +8,8 @@ public:
             for (int j=i; j>0; j/=10) {
                 ans1+=(j%10);
             }
-            if (ans1<ans) {
-                ans=ans1;
-            }
-            i=ans;
+            ans=ans1;
+            i=ans1;
         }
         return ans;
     }
