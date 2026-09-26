@@ -11,6 +11,7 @@ My solns
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SuryaPrakash48/LeetCode/tree/master/0258-add-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/SuryaPrakash48/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
@@ -70,6 +71,7 @@ My solns
 | [0066-plus-one](https://github.com/SuryaPrakash48/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SuryaPrakash48/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/SuryaPrakash48/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/SuryaPrakash48/LeetCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/SuryaPrakash48/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -172,4 +174,8 @@ My solns
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SuryaPrakash48/LeetCode/tree/master/0069-sqrtx) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SuryaPrakash48/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
