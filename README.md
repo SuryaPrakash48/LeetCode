@@ -7,11 +7,13 @@ My solns
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/SuryaPrakash48/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/SuryaPrakash48/LeetCode/tree/master/0412-fizz-buzz) |
 | [3498-reverse-degree-of-a-string](https://github.com/SuryaPrakash48/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SuryaPrakash48/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/SuryaPrakash48/LeetCode/tree/master/0412-fizz-buzz) |
 | [3498-reverse-degree-of-a-string](https://github.com/SuryaPrakash48/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
@@ -73,6 +75,7 @@ My solns
 | [0231-power-of-two](https://github.com/SuryaPrakash48/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SuryaPrakash48/LeetCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/SuryaPrakash48/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/SuryaPrakash48/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0877-stone-game) |
