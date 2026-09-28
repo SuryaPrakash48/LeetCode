@@ -8,6 +8,7 @@ My solns
 | ------- |
 | [0344-reverse-string](https://github.com/SuryaPrakash48/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/SuryaPrakash48/LeetCode/tree/master/0412-fizz-buzz) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SuryaPrakash48/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/SuryaPrakash48/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -181,4 +182,12 @@ My solns
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SuryaPrakash48/LeetCode/tree/master/0258-add-digits) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SuryaPrakash48/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SuryaPrakash48/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
