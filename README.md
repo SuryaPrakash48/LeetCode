@@ -37,6 +37,7 @@ My solns
 | [0540-single-element-in-a-sorted-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SuryaPrakash48/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0877-stone-game) |
+| [0941-valid-mountain-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/0941-valid-mountain-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SuryaPrakash48/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SuryaPrakash48/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
