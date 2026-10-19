@@ -9,7 +9,7 @@ public:
                 ans.push_back(i);
             }
         }
-        sort (ans.begin(), ans.end());
+       
         return ans;
     }
 };
