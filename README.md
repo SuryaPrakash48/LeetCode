@@ -7,6 +7,7 @@ My solns
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/SuryaPrakash48/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/SuryaPrakash48/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/SuryaPrakash48/LeetCode/tree/master/0412-fizz-buzz) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SuryaPrakash48/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/SuryaPrakash48/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -142,6 +143,7 @@ My solns
 | [0001-two-sum](https://github.com/SuryaPrakash48/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SuryaPrakash48/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SuryaPrakash48/LeetCode/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/SuryaPrakash48/LeetCode/tree/master/0383-ransom-note) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SuryaPrakash48/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Sorting
 |  |
@@ -153,6 +155,7 @@ My solns
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SuryaPrakash48/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/SuryaPrakash48/LeetCode/tree/master/0383-ransom-note) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SuryaPrakash48/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
