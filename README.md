@@ -34,6 +34,7 @@ My solns
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuryaPrakash48/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SuryaPrakash48/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/SuryaPrakash48/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/SuryaPrakash48/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SuryaPrakash48/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/SuryaPrakash48/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -84,6 +85,7 @@ My solns
 | [0050-powx-n](https://github.com/SuryaPrakash48/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SuryaPrakash48/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SuryaPrakash48/LeetCode/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/SuryaPrakash48/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SuryaPrakash48/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SuryaPrakash48/LeetCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0292-nim-game) |
@@ -197,6 +199,7 @@ My solns
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SuryaPrakash48/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/SuryaPrakash48/LeetCode/tree/master/0258-add-digits) |
 ## Stack
 |  |
@@ -211,4 +214,20 @@ My solns
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SuryaPrakash48/LeetCode/tree/master/0042-trapping-rain-water) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SuryaPrakash48/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SuryaPrakash48/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SuryaPrakash48/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SuryaPrakash48/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
