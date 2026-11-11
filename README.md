@@ -38,6 +38,7 @@ My solns
 | [0204-count-primes](https://github.com/SuryaPrakash48/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/SuryaPrakash48/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SuryaPrakash48/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/SuryaPrakash48/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SuryaPrakash48/LeetCode/tree/master/0704-binary-search) |
@@ -65,6 +66,7 @@ My solns
 | [0069-sqrtx](https://github.com/SuryaPrakash48/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuryaPrakash48/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SuryaPrakash48/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -98,6 +100,7 @@ My solns
 | [0204-count-primes](https://github.com/SuryaPrakash48/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SuryaPrakash48/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SuryaPrakash48/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/SuryaPrakash48/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0507-perfect-number) |
@@ -157,6 +160,7 @@ My solns
 | [0001-two-sum](https://github.com/SuryaPrakash48/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SuryaPrakash48/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SuryaPrakash48/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/SuryaPrakash48/LeetCode/tree/master/0383-ransom-note) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SuryaPrakash48/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Sorting
@@ -165,6 +169,7 @@ My solns
 | [0088-merge-sorted-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SuryaPrakash48/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SuryaPrakash48/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SuryaPrakash48/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
@@ -200,6 +205,7 @@ My solns
 | [0136-single-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/SuryaPrakash48/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SuryaPrakash48/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/SuryaPrakash48/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SuryaPrakash48/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Geometry
