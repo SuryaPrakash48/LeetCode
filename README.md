@@ -50,6 +50,7 @@ My solns
 | [2089-find-target-indices-after-sorting-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SuryaPrakash48/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2784-check-if-array-is-good](https://github.com/SuryaPrakash48/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SuryaPrakash48/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SuryaPrakash48/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SuryaPrakash48/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -164,6 +165,7 @@ My solns
 | [0268-missing-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/SuryaPrakash48/LeetCode/tree/master/0383-ransom-note) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SuryaPrakash48/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2784-check-if-array-is-good](https://github.com/SuryaPrakash48/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Sorting
 |  |
 | ------- |
@@ -173,6 +175,7 @@ My solns
 | [0268-missing-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SuryaPrakash48/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2784-check-if-array-is-good](https://github.com/SuryaPrakash48/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Counting
 |  |
 | ------- |
