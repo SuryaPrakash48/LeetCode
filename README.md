@@ -29,6 +29,7 @@ My solns
 | [0042-trapping-rain-water](https://github.com/SuryaPrakash48/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SuryaPrakash48/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SuryaPrakash48/LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/SuryaPrakash48/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SuryaPrakash48/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0136-single-number) |
@@ -86,6 +87,7 @@ My solns
 | [0011-container-with-most-water](https://github.com/SuryaPrakash48/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SuryaPrakash48/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/SuryaPrakash48/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuryaPrakash48/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/SuryaPrakash48/LeetCode/tree/master/0344-reverse-string) |
@@ -169,6 +171,7 @@ My solns
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SuryaPrakash48/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SuryaPrakash48/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SuryaPrakash48/LeetCode/tree/master/0217-contains-duplicate) |
@@ -258,4 +261,12 @@ My solns
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SuryaPrakash48/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SuryaPrakash48/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
