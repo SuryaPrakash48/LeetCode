@@ -40,6 +40,7 @@ My solns
 | [0217-contains-duplicate](https://github.com/SuryaPrakash48/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SuryaPrakash48/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/SuryaPrakash48/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SuryaPrakash48/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SuryaPrakash48/LeetCode/tree/master/0704-binary-search) |
@@ -90,6 +91,7 @@ My solns
 | [0075-sort-colors](https://github.com/SuryaPrakash48/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuryaPrakash48/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/SuryaPrakash48/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SuryaPrakash48/LeetCode/tree/master/0344-reverse-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SuryaPrakash48/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
