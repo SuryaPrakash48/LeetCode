@@ -52,6 +52,7 @@ My solns
 | [2089-find-target-indices-after-sorting-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SuryaPrakash48/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2706-buy-two-chocolates](https://github.com/SuryaPrakash48/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/SuryaPrakash48/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SuryaPrakash48/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SuryaPrakash48/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -180,6 +181,7 @@ My solns
 | [0268-missing-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SuryaPrakash48/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2706-buy-two-chocolates](https://github.com/SuryaPrakash48/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/SuryaPrakash48/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Counting
 |  |
@@ -196,6 +198,7 @@ My solns
 | ------- |
 | [0011-container-with-most-water](https://github.com/SuryaPrakash48/LeetCode/tree/master/0011-container-with-most-water) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2706-buy-two-chocolates](https://github.com/SuryaPrakash48/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Brainteaser
 |  |
 | ------- |
