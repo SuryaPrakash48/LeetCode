@@ -8,6 +8,7 @@ My solns
 | ------- |
 | [0344-reverse-string](https://github.com/SuryaPrakash48/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/SuryaPrakash48/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/SuryaPrakash48/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/SuryaPrakash48/LeetCode/tree/master/0412-fizz-buzz) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SuryaPrakash48/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/SuryaPrakash48/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -94,6 +95,7 @@ My solns
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuryaPrakash48/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/SuryaPrakash48/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SuryaPrakash48/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/SuryaPrakash48/LeetCode/tree/master/0392-is-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SuryaPrakash48/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/SuryaPrakash48/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Math
@@ -128,6 +130,7 @@ My solns
 | [0042-trapping-rain-water](https://github.com/SuryaPrakash48/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SuryaPrakash48/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SuryaPrakash48/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/SuryaPrakash48/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/SuryaPrakash48/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SuryaPrakash48/LeetCode/tree/master/0877-stone-game) |
 ## Minimax
